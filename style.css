@@ -1,0 +1,204 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.site
+{
+    width: 600px;
+    height: auto;
+    border: 1px solid white;
+    margin: auto;
+}
+.fa-fish-fins
+ {
+font-size: 40px;
+margin: 10px;
+ }   
+ .oltin
+ {
+    font-size: 20px;
+
+ }
+ .sel
+ {
+margin-left: 280px;
+font-size: 20px;
+background-color: white;
+border: none;
+    font-weight: bolder;
+ }
+ .img
+ {
+    width: 100%;
+ }
+ .h2
+ {
+    margin-left: 70px;
+    color: #2190D5;
+ }
+ .sp
+ {
+    color: black;
+ }
+ .h5
+ {
+    text-align: center;
+    color: gray;
+ }
+ .hh
+ {
+    color: #2190D5;
+    text-align: center;
+ }
+ .sp
+ {
+    color: black;
+ }
+ .hhh
+ {
+    text-align: center;
+    color: gray;
+ }
+
+ .daq
+ {
+    width: 400px;
+    height: 300px;
+    background-color: #F2FBFD;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+ }
+ .daq2
+ {
+    width: 400px;
+    height: 300px;
+    background-color: #F2FBFD;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+ } 
+ .daq3
+ {
+    width: 400px;
+    height: 300px;
+    background-color: #F2FBFD;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+ }
+
+ .fa-phone-volume
+ {
+    font-size: 40px;
+    left: 300px;  
+    margin-top: 30px;
+ }
+ .h
+ {
+    margin-top: 40px;
+}
+.bon
+{
+    margin-top: 50px;
+    color: gray;
+}
+.fa-gift
+{
+    font-size: 40px;
+    margin-top: 30px;
+}
+.fa-wifi
+{
+    font-size: 40px;
+    margin-top: 30px;
+}
+.hhhh
+{
+    text-align: center;
+}
+.span
+{
+    color: #2190D5;
+}
+.hhhhh
+{
+margin-top: 20px;
+text-align: center;
+color: gray;
+}
+.tugma1
+{
+    font-size: 20px;
+    color: white;
+    background-image: radial-gradient(at left bottom,#236AD5, #23C7D5);
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 201px;
+    height: 62px;
+}
+#qim
+{
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+}
+#id
+{
+    color: #2190D5;
+}
+.fa-headphones
+{
+    font-size: 80px;
+    margin-top: 70px;
+}
+.bb
+{
+    text-align: left;
+    margin: 20px 20px;
+}
+.fa-gamepad
+{
+    font-size: 80px;
+    margin-top: 70px;
+}
+.fa-laptop
+{
+    font-size: 80px;
+    margin-top: 70px;
+}
+.fa-clock
+{
+    font-size: 80px;
+    margin-top: 70px;
+}
+.fa-mouse
+{
+    font-size: 80px;
+    margin-top: 70px;
+}
+.gg
+{
+    margin-top: 50px;
+    width: 100%;
+}
+#h1
+{
+    text-align: center;
+    color: #2190D5;
+}
+#h2
+{
+color: black;
+}
+.cc
+{
+    font-size: 40px;
+}
+.vv
+{
+    font-size: 25px;
+}
